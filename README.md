@@ -6,14 +6,14 @@
     <a href="https://discord.com/channels/@me/833330477447381012">
         <img src="https://img.shields.io/badge/LuizPedro-8385-7289DA?style=flat-square&logo=discord&logoColor=white" alt="discord" />
     </a>
-    <a href="mailto:luizpedrosousa65@gmail.com">
-        <img src="https://img.shields.io/badge/-luizpedrosousa65@gmail.com-7289DA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpedrosousa65@gmail.com" alt="gmail"/>
+    <a href="mailto:luizpedrosousa64@gmail.com">
+        <img src="https://img.shields.io/badge/-luizpedrosousa64@gmail.com-7289DA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpedrosousa65@gmail.com" alt="gmail"/>
     </a>
 </p>
 
 Eu sou um estudante de **frontend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **CSS3**, **Typescript** e **React**
+• Atualmente focado em **Ambiente CSS3**, **Typescript**, **React** e **Elixir**
 
 ```javascript
 const myLife = () => {
