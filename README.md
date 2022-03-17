@@ -11,16 +11,16 @@
     </a>
 </p>
 
-Eu sou um estudante de **frontend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
+Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **Ambiente CSS3**, **Typescript**, **React** e **Elixir**
+• Atualmente focado em **NodeJS*, **Typescript**, **React** e **Elixir**
 
 ```javascript
 const myLife = () => {
   return {
     name: "Luiz Pedro",
     age: 18,
-    passion: "Frontend",
+    passion: "Backend",
     freeTime: "Faço o melhor café do meu bairro",
   };
 };
