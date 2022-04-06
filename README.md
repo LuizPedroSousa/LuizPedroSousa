@@ -13,13 +13,14 @@
 
 Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **NodeJS**, **Typescript**, **React** e **Elixir** e codando no [MessageAlive](https://github.com/LuizPedroSousa/MessageAlive)
+• Atualmente focado em **NodeJS**, **Typescript**, **React** e **Elixir**. 
+
 
 ```javascript
 const myLife = () => {
   return {
     name: "Luiz Pedro",
-    age: 18,
+    age: 19,
     passion: "Backend",
     freeTime: "Faço o melhor café do meu bairro",
   };
