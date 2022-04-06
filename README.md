@@ -13,7 +13,7 @@
 
 Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **NodeJS**, **Typescript**, **React** e **Elixir**
+• Atualmente focado em **NodeJS**, **Typescript**, **React** e **Elixir** e codando no [MessageAlive](https://github.com/LuizPedroSousa/MessageAlive)
 
 ```javascript
 const myLife = () => {
