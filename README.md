@@ -20,7 +20,7 @@ Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procu
 const myLife = () => {
   return {
     name: "Luiz Pedro",
-    age: 19,
+    age: 20,
     passion: "Backend",
     freeTime: "Faço o melhor café do meu bairro",
   };
