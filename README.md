@@ -13,14 +13,14 @@
 
 Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **Typescript**, **C#**, **NodeJS**,  **React** e **.NET Core**. 
+• Atualmente focado em **Typescript**, **C++**, **zig**, **C#**, **NodeJS**,  **React** e **.NET Core**. 
 
 
 ```javascript
 const myLife = () => {
   return {
     name: "Luiz Pedro",
-    age: 20,
+    age: 21,
     passion: "Backend",
     freeTime: "Faço o melhor café do meu bairro",
   };
