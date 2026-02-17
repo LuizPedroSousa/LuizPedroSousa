@@ -1,46 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=220&section=header)
+# Hi, I'm Luiz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Luiz
+Full-stack Developer. Systems & graphics programming enthusiast.
 
-<p align="center">
+Outside web dev, I spend my time learning about game engine architecture, performance, and low-level design.
+
+I enjoy building and understanding things; breaking them apart and rebuilding them simpler and cleaner.
+
+#### Currently Exploring
+- OpenGL/Vulkan/DirectX12
+- Data-Oriented Design
+- Task-based job systems (fibers & work-stealing)
+- SIMD & Cache-Aware Optimizations
+
+#### Reach out:
+<p align="left">
     <a href="https://discord.com/channels/@me/833330477447381012">
         <img src="https://img.shields.io/badge/LuizPedro-8385-7289DA?style=flat-square&logo=discord&logoColor=white" alt="discord" />
     </a>
     <a href="mailto:luizpedrosousa64@gmail.com">
-        <img src="https://img.shields.io/badge/-luizpedrosousa64@gmail.com-7289DA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpedrosousa65@gmail.com" alt="gmail"/>
+        <img src="https://img.shields.io/badge/-luizpedrosousa64@gmail.com-7289DA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpedrosousa64@gmail.com" alt="gmail"/>
     </a>
 </p>
 
-Eu sou um dev **backend** que ama a vastidão da tecnologia e está sempre procurando ser melhor do que ontem! :cat:
 
-• Atualmente focado em **Typescript**, **C++**, **zig**, **C#**, **NodeJS**,  **React** e **.NET Core**. 
+#### <img src=".Github/icons/statistics.svg" width ="20px" alt="statistics"/> Github status
 
-
-```javascript
-const myLife = () => {
-  return {
-    name: "Luiz Pedro",
-    age: 21,
-    passion: "Backend",
-    freeTime: "Faço o melhor café do meu bairro",
-  };
-};
-
-do {
-  myLife();
-} while (alive);
-```
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
-
-## <img src=".Github/icons/statistics.svg" width ="20px" alt="statistics"/> Github status
-
-<a href="https://github.com/LuizPedroSousa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPedroSousa&theme=dracula&show_icons=true&layout=compact" alt="linguagens mais usadas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizPedroSousa&theme=dracula&show_icons=true" alt="Luiz Pedro status" />
-</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuizPedroSousa&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPedroSousa&langs_count=5)
 <br/>
 <br/>
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=220&section=footer)
