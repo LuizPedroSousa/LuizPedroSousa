@@ -21,8 +21,10 @@ Outside web dev, I spend my time learning about game engine architecture, perfor
 </p>
 
 
-#### <img src=".Github/icons/statistics.svg" width ="20px" alt="statistics"/> Github status
+#### <img src=".Github/icons/statistics.svg" width ="20px" alt="statistics"/> Github Status
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuizPedroSousa&theme=gruvbox&hide_border=false)<br/>
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizPedroSousa&custom_title=Last%20Month%20Activity&theme=xcode&hide_border=true)
 <br/>
 <br/>
